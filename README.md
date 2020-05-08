@@ -1,5 +1,5 @@
 # KDDCUP
-A simple demonstration of Artificial Neural Network on KDDCUP as a Sentdex' community helper
+A simple demonstration of Artificial Neural Network on KDDCUP dataset as a Sentdex' community helper
 
 ![GitHub Logo](/img/neural_network.png)
 
